@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Pranav+Tiwari;Aspiring+SRE+%2B+GenAI+Engineer;Building+AI+Systems+That+Run+at+3+AM+%F0%9F%8C%99;AWS+%7C+Kubernetes+%7C+Python+%7C+LangChain" alt="Typing SVG" />
 </div>
 
----
-
-<!-- Matrix Terminal Style About Me -->
 <div align="center">
 
 ```
@@ -34,33 +31,12 @@
 
 ## 🔭 About Me
 
-```python
-class PranavTiwari:
-    def __init__(self):
-        self.name = "Pranav Tiwari"
-        self.role = "Aspiring SRE + GenAI Engineer"
-        self.university = "GLA University, Mathura"
-        self.year = "3rd Year B.Tech CSE"
-        
-    def currently_working_on(self):
-        return [
-            "ZIPIT Data Lake — Production AWS Architecture",
-            "Kubernetes + Terraform Infrastructure Project",
-            "AI Incident Assistant using LangChain + AWS"
-        ]
-    
-    def currently_learning(self):
-        return ["Python", "Kubernetes", "Terraform", "AWS SAA", "LangChain"]
-    
-    def looking_to_collaborate_on(self):
-        return "Cloud/DevOps open source projects (CNCF ecosystem)"
-    
-    def ask_me_about(self):
-        return "AWS Data Lake, Medallion Architecture, Python ETL, Cloud Cost Optimization"
-    
-    def fun_fact(self):
-        return "Built Netflix-scale Medallion Architecture as a 2nd year student 🚀"
-```
+- 🔭 I'm currently working on — **ZIPIT Data Lake (AWS)** + Kubernetes + Terraform Infrastructure
+- 🤝 I'm looking to collaborate on — **Cloud/DevOps open source projects (CNCF ecosystem)**
+- 🆘 I'm looking for help with — **Getting my first Cloud/DevOps internship**
+- 🌱 I'm currently learning — **Python • Kubernetes • Terraform • AWS SAA • LangChain**
+- 💬 Ask me about — **AWS Data Lake, Medallion Architecture, Python ETL, Cloud Cost Optimization**
+- ⚡ Fun fact — **Built Netflix-scale Medallion Architecture as a 2nd year student 🚀**
 
 ---
 
@@ -149,15 +125,27 @@ class PranavTiwari:
 
 ---
 
-## 🗺️ Roadmap — Where I'm Headed
+## 🗺️ Roadmap
 
-```
-2026 (Now)     ████████░░  AWS CCP → AWS SAA → CKA (Kubernetes Admin)
-2026 (Jul-Dec) ███████░░░  Project 2: K8s + Terraform + Prometheus/Grafana
-2027 (Jan-Mar) ██████░░░░  Project 3: AI Incident Assistant (LangChain + K8s)
-2027 (Apr-Jun) █████░░░░░  Placement: SRE + GenAI Engineer @ Product Company
-2028+          ████░░░░░░  Senior AI Platform Engineer | ₹40-50 LPA target
-```
+<div align="center">
+
+| Timeline | Goal | Status |
+|---|---|---|
+| 2026 Now | AWS CCP → AWS SAA → CKA | 🔄 In Progress |
+| Jul-Dec 2026 | K8s + Terraform + Prometheus/Grafana Project | 📅 Upcoming |
+| Jan-Mar 2027 | AI Incident Assistant (LangChain + K8s) | 📅 Upcoming |
+| Apr-Jun 2027 | Placement: SRE + GenAI Engineer | 🎯 Target |
+| 2028+ | Senior AI Platform Engineer \| ₹40-50 LPA | 🚀 Vision |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pranav-sre/pranav-sre/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -178,10 +166,5 @@ class PranavTiwari:
 ---
 
 <div align="center">
-
-```
-I don't just want to use the cloud.
-I want to be the person who keeps it running at 3 AM. 🌙
-```
-
+<i>I don't just want to use the cloud. I want to be the person who keeps it running at 3 AM. 🌙</i>
 </div>
