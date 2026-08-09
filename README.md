@@ -1,27 +1,187 @@
-# 💫 About Me:
-🔭 I'm currently working on — ZIPIT Data Lake (AWS) & <br>   building toward my next project: Kubernetes + Terraform <br>   infrastructure with full observability stack<br><br>🤝 I'm looking to collaborate on — Cloud/DevOps open source <br>   projects, especially in the Kubernetes and AWS ecosystem <br>   (CNCF projects)<br><br>🆘 I'm looking for help with — Getting my first Cloud/DevOps <br>   internship and contributing to real-world production <br>   infrastructure<br><br>🌱 I'm currently learning — Python, Kubernetes, Terraform, <br>   AWS (SAA level), and exploring Agentic AI with LangChain<br><br>💬 Ask me about — AWS Data Lake Architecture, Medallion <br>   Architecture, Python ETL pipelines, and cloud cost <br>   optimization on AWS free tier<br><br>⚡ Fun fact — I built a production-grade AWS Data Lake <br>   used at Netflix and Amazon scale (Medallion Architecture) <br>   as a 2nd year college student with zero industry experience
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_tiwari_13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-tiwari-6209a1374/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PranavTiwari013) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavtiwari0813@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pranav-sre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=pranav-sre&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranav-sre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranav-sre&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranav-sre&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Typing SVG Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Pranav+Tiwari;Aspiring+SRE+%2B+GenAI+Engineer;Building+AI+Systems+That+Run+at+3+AM+%F0%9F%8C%99;AWS+%7C+Kubernetes+%7C+Python+%7C+LangChain" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=pranav-sre&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Matrix Terminal Style About Me -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   >> PRANAV TIWARI //                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  Role        │ Aspiring SRE + GenAI Engineer                 ║
+║  Education   │ B.Tech CSE @ GLA University (3rd Year)        ║
+║  Status      │ Building • Learning • Shipping                ║
+║  Location    │ Mathura, Uttar Pradesh, India                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  Core Lang   │ Python                                        ║
+║  Core Cloud  │ AWS (S3, Glue, Athena, CloudWatch, IAM)       ║
+║  Core Infra  │ Kubernetes • Terraform • Docker               ║
+║  Core AI     │ LangChain • LLM APIs • Agentic Systems        ║
+╠══════════════════════════════════════════════════════════════╣
+║  GitHub      │ github.com/pranav-sre                         ║
+║  LinkedIn    │ linkedin.com/in/pranav-tiwari-6209a1374       ║
+║  Email       │ pranavtiwari0813@gmail.com                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🔭 About Me
+
+```python
+class PranavTiwari:
+    def __init__(self):
+        self.name = "Pranav Tiwari"
+        self.role = "Aspiring SRE + GenAI Engineer"
+        self.university = "GLA University, Mathura"
+        self.year = "3rd Year B.Tech CSE"
+        
+    def currently_working_on(self):
+        return [
+            "ZIPIT Data Lake — Production AWS Architecture",
+            "Kubernetes + Terraform Infrastructure Project",
+            "AI Incident Assistant using LangChain + AWS"
+        ]
+    
+    def currently_learning(self):
+        return ["Python", "Kubernetes", "Terraform", "AWS SAA", "LangChain"]
+    
+    def looking_to_collaborate_on(self):
+        return "Cloud/DevOps open source projects (CNCF ecosystem)"
+    
+    def ask_me_about(self):
+        return "AWS Data Lake, Medallion Architecture, Python ETL, Cloud Cost Optimization"
+    
+    def fun_fact(self):
+        return "Built Netflix-scale Medallion Architecture as a 2nd year student 🚀"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+**AWS Services**
+
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**AI & GenAI Track**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+| | ZIPIT — AWS Food Delivery Data Lake |
+|---|---|
+| 🏗️ **Architecture** | Medallion Architecture (Bronze → Silver → Gold) |
+| ☁️ **Cloud** | AWS S3, Glue, Athena, CloudWatch, CloudFormation |
+| 🐍 **Language** | Python (boto3, pandas, pyarrow) |
+| 📊 **Scale** | 10,000+ records, 5 domain tables, 8 SQL queries |
+| 💰 **Cost saved** | 87% storage reduction, 80% lifecycle cost cut |
+| 🔒 **Security** | AES-256, IAM least-privilege, MFA on root |
+| ⚡ **IaC** | Full CloudFormation — single CLI command deploy |
+
+[![ZIPIT Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranav-sre/zipit-data-lake)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🏅 Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | 2026 |
+| 🏅 AI Skills Fest 2026 | Microsoft | 2026 |
+| 🏅 AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2026 |
+| 🏅 Software Engineering | NPTEL — IIT | 2025 |
+| 🏅 Introduction to Environmental Engineering | Coursera | 2026 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-sre&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-sre&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-sre&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41" />
+</div>
+
+---
+
+## 🗺️ Roadmap — Where I'm Headed
+
+```
+2026 (Now)     ████████░░  AWS CCP → AWS SAA → CKA (Kubernetes Admin)
+2026 (Jul-Dec) ███████░░░  Project 2: K8s + Terraform + Prometheus/Grafana
+2027 (Jan-Mar) ██████░░░░  Project 3: AI Incident Assistant (LangChain + K8s)
+2027 (Apr-Jun) █████░░░░░  Placement: SRE + GenAI Engineer @ Product Company
+2028+          ████░░░░░░  Senior AI Platform Engineer | ₹40-50 LPA target
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-tiwari-6209a1374)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranav-sre)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavtiwari0813@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranav-sre&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+---
+
+<div align="center">
+
+```
+I don't just want to use the cloud.
+I want to be the person who keeps it running at 3 AM. 🌙
+```
+
+</div>
