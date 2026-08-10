@@ -6,6 +6,7 @@
 <div align="center">
 
 ```
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                   >> PRANAV TIWARI //                        ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -102,7 +103,7 @@
 
 | Certification | Issuer | Year |
 |---|---|---|
-| 🏅 Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | 2026 |
+| 🏅 Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | 2026 
 | 🏅 AI Skills Fest 2026 | Microsoft | 2026 |
 | 🏅 AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2026 |
 | 🏅 Software Engineering | NPTEL — IIT | 2025 |
