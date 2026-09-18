@@ -1,3 +1,18 @@
+<!-- Banner -->
+<picture>
+<source media="(prefers-color-scheme: dark)" 
+  srcset="https://raw.githubusercontent.com/pranav-sre/main/dark.svg"> 
+<source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
+  <img alt="Pranav Tiwari" src="https://raw.githubusercontent.com/pranav-sre/main/ light.svg">
+</picture>
+
+
+
+
+
+
+
 <!-- Typing SVG Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Pranav+Tiwari;Aspiring+SRE+%2B+GenAI+Engineer;Building+AI+Systems+That+Run+at+3+AM+%F0%9F%8C%99;AWS+%7C+Kubernetes+%7C+Python+%7C+LangChain" alt="Typing SVG" />
