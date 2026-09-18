@@ -1,17 +1,3 @@
-<!-- Banner -->
-<picture>
-<source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/pranav-sre/main/dark.svg"> 
-<source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg">
-  <img alt="Pranav Tiwari" src="https://raw.githubusercontent.com/pranav-sre/main/ light.svg">
-</picture>
-
-
-
-
-
-
 
 <!-- Typing SVG Header -->
 <div align="center">
